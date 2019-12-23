@@ -4,13 +4,16 @@ Starting out learning how to code can be really hard. There's so many resources 
 
 
 ## HTML
-
+https://learn.shayhowe.com/html-css/
 
 ## CSS
+https://learn.shayhowe.com/html-css/
 [https://necolas.github.io/normalize.css/](https://necolas.github.io/normalize.css/)
 
 
 ### FLEXBOX
+[https://www.flexboxpatterns.com/] (https://www.flexboxpatterns.com/)
+
 ### GRIDS
 
 #### CSS LIBRARIES
@@ -35,7 +38,11 @@ ANGULAR
 ## TESTING
 
 #### HTML
+https://validator.w3.org/nu/
 #### CSS
+https://validator.w3.org/nu/
+#### JAVASCRIPT
+https://jshint.com/
 
 [https://jasmine.github.io/](https://jasmine.github.io/)
 
