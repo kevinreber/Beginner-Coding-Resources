@@ -8,11 +8,11 @@ https://learn.shayhowe.com/html-css/
 
 ## CSS
 https://learn.shayhowe.com/html-css/
-[https://necolas.github.io/normalize.css/](https://necolas.github.io/normalize.css/)
+[Normalize CSS](https://necolas.github.io/normalize.css/)
 
 
 ### FLEXBOX
-[https://www.flexboxpatterns.com/] (https://www.flexboxpatterns.com/)
+[Flexbox Patterns] (https://www.flexboxpatterns.com/)
 
 ### GRIDS
 
@@ -22,7 +22,7 @@ https://learn.shayhowe.com/html-css/
 
 
 ## JAVASCRIPT
-(https://javascript30.com/)
+[Javascript 30](https://javascript30.com/)
 
 #### FRAMEWORKS
 REACT
@@ -38,11 +38,11 @@ ANGULAR
 ## TESTING
 
 #### HTML
-https://validator.w3.org/nu/
+[w3 Validator](https://validator.w3.org/nu/)
 #### CSS
-https://validator.w3.org/nu/
+[w3 Validator](https://validator.w3.org/nu/)
 #### JAVASCRIPT
-https://jshint.com/
+[jsHint](https://jshint.com/)
 
 [https://jasmine.github.io/](https://jasmine.github.io/)
 
@@ -53,31 +53,31 @@ https://jshint.com/
 ## TERMINAL
 
 ## COMPUTER SCIENCE
-(https://www.edx.org/course/cs50s-introduction-to-computer-science)
+[Harvard CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
-[https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101](https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101)
+[Stanford CS101](https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101)
 
 ## TEXT EDITORS
 
 
 ## LEARNING RESOURCES
-[https://teamtreehouse.com/](https://teamtreehouse.com/home)
+* [Team Treehouse](https://teamtreehouse.com/home)
 
-[https://www.coursera.org/](https://www.coursera.org/)
+* [Coursera](https://www.coursera.org/)
 
-[https://www.udacity.com/](https://www.udacity.com/)
+* [Udacity](https://www.udacity.com/)
 
-[https://www.udemy.com/](https://www.udemy.com/)
+* [Udemy](https://www.udemy.com/)
 
-[https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+* [Free Code Camp](https://www.freecodecamp.org/)
 
-[https://www.theodinproject.com/](https://www.theodinproject.com/)
+* [The Odin Project](https://www.theodinproject.com/)
 
-[https://www.rithmschool.com/courses](https://www.rithmschool.com/courses)
+* [Rithm School](https://www.rithmschool.com/courses)
 
-[https://open.appacademy.io/](https://open.appacademy.io/)
+* [App Academy Open](https://open.appacademy.io/)
 
-[https://www.frontendmentor.io/challenges](https://www.frontendmentor.io/challenges)
+* [Front End Mentor](https://www.frontendmentor.io/challenges)
 
 
 
@@ -88,8 +88,7 @@ https://jshint.com/
 
 ## ONLINE PAIR PROGRAMMING
 
-[https://chingu.io/]
-(https://chingu.io/)
+[Chingu.io](https://chingu.io/)
 
 
 ## CODING BOOTCAMP REVIEWS
@@ -107,23 +106,31 @@ https://jshint.com/
 
 ## CODING PROBLEMS
 
-[https://leetcode.com/](https://leetcode.com/)
-
-[https://www.codewars.com/](https://www.codewars.com/)
-
-[https://triplebyte.com/](https://triplebyte.com/)
-
-[https://www.hackerrank.com/](https://www.hackerrank.com/)
-
-[https://app.codesignal.com/](https://app.codesignal.com/)
-
-[https://www.coderbyte.com/](https://www.coderbyte.com/)
+* [Leet Code](https://leetcode.com/)
+* [Code Wars](https://www.codewars.com/)
+* [Triplebye](https://triplebyte.com/)
+* [Hacker Rank](https://www.hackerrank.com/)
+* [Code Signal](https://app.codesignal.com/)
+* [Coder Byte](https://www.coderbyte.com/)
 
 ## UI/UIX
-[https://balsamiq.com/](https://balsamiq.com/)
+* [Balsamiq](https://balsamiq.com/)
 
 ## DESIGN
-[https://www.creative-tim.com/](https://www.creative-tim.com/)
+* [Creative-Tim](https://www.creative-tim.com/)
+* [SVG Artista](https://svgartista.net/)
+* [The Noun Project](https://thenounproject.com/)
+* [Get Waves](https://getwaves.io/)
 
+## Networking Guides
+* [Virtual Career Fairs](https://studentaffairs.duke.edu/blog-entry/virtual-career-fairs-%E2%80%938-tips-prepare)
 
-> Written with [StackEdit](https://stackedit.io/).
+## Interviewing Guides
+* [Video Interview Guide](https://www.indeed.com/career-advice/interviewing/video-interview-guide)
+
+## Job Boards
+* [We Work Remotely](https://weworkremotely.com/) 
+* [Handshake](https://berkeley.joinhandshake.com/login)
+* [Stack Overflow](https://stackoverflow.com/jobs)
+* [Angel List](https://angel.co/jobs)
+* [Career Eco - Virtual Career Fair](https://www.careereco.com/Candidate/Dashboard#upcomingFair)
