@@ -1,7 +1,8 @@
 # Beginner Coding Resources
 Starting out learning how to code can be really hard. There's so many resources online and everyone has an opinion about different things, it can be very overwhelming. I made this document in hopes of having all the best known coding resources out there organized and easy to read. I wish I had something similar to this when I first started my coding journey. Enjoy!
 
-
+## Books
+* [Paul van der Laken - Computer Science Books](https://paulvanderlaken.com/2020/04/24/free-springer-books-computer-science-covid19/)
 
 ## HTML
 https://learn.shayhowe.com/html-css/
